@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/AnimationsDemo.unity
+=======
+- path: Assets/Scenes/MovementTestScene.unity
+>>>>>>> e0d3ed662ece0ee61cf84e590f8558953ab49c5e
   isLoaded: 1
   isActive: 1
