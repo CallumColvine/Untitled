@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: ff9c03ca2ceb88046b31f059ccb12be7
+timeCreated: 1461737291
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icyhotpot_0
+    21300002: icyhotpot_1
+    21300004: icyhotpot_2
+    21300006: icyhotpot_3
+    21300008: icyhotpot_4
+    21300010: icyhotpot_5
+    21300012: icyhotpot_6
+    21300014: icyhotpot_7
+    21300016: icyhotpot_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: icyhotpot_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 63
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: icyhotpot_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: icyhotpot_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 62
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 11.5}
+        - {x: -17, y: -15.5}
+        - {x: -15, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 17, y: -7.5}
+        - {x: 17, y: 11.5}
+    - name: icyhotpot_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 62
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 13.5}
+        - {x: -20.5, y: 11.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 20.5, y: -12.5}
+        - {x: 20.5, y: 10.5}
+        - {x: 16.5, y: 13.5}
+    - name: icyhotpot_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 62
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 16.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -27.5, y: -16.5}
+        - {x: -21.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 27.5, y: -11.5}
+        - {x: 27.5, y: 11.5}
+        - {x: 24.5, y: 16.5}
+    - name: icyhotpot_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 67
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -10.5}
+        - {x: 25, y: -15.5}
+        - {x: 30, y: -5.5}
+        - {x: 30, y: 17.5}
+        - {x: -28, y: 17.5}
+        - {x: -28, y: -3.5}
+        - {x: -24, y: -17.5}
+        - {x: 19, y: -17.5}
+        - {x: 20, y: -14.5}
+        - {x: 21, y: -8.5}
+        - {x: 21, y: -7.5}
+    - name: icyhotpot_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 67
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 12.5}
+        - {x: 23, y: 13.5}
+        - {x: 20, y: 11.5}
+        - {x: 21, y: 11.5}
+        - {x: 18, y: 15.5}
+        - {x: 17, y: 17.5}
+        - {x: -27, y: 17.5}
+        - {x: -31, y: 10.5}
+        - {x: -31, y: -12.5}
+        - {x: -29, y: -17.5}
+        - {x: 20, y: -17.5}
+        - {x: 21, y: -16.5}
+        - {x: 31, y: -11.5}
+        - {x: 31, y: 6.5}
+    - name: icyhotpot_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 69
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 17.5}
+        - {x: -25.5, y: 17.5}
+        - {x: -27.5, y: 14.5}
+        - {x: -23.5, y: -1.5}
+        - {x: -20.5, y: -4.5}
+        - {x: -18.5, y: -4.5}
+        - {x: -14.5, y: -2.5}
+        - {x: -14.5, y: -5.5}
+        - {x: -35.5, y: -2.5}
+        - {x: -36.5, y: -5.5}
+        - {x: -36.5, y: -17.5}
+        - {x: 36.5, y: -17.5}
+        - {x: 36.5, y: -3.5}
+      - - {x: 15.5, y: -6.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 15.5, y: -1.5}
+        - {x: 13.5, y: -3.5}
+      - - {x: 25.5, y: -5.5}
+        - {x: 28.5, y: -4.5}
+        - {x: 28.5, y: -1.5}
+        - {x: 25.5, y: -0.5}
+        - {x: 23.5, y: -2.5}
+      - - {x: -29.5, y: -4.5}
+        - {x: -26.5, y: -3.5}
+        - {x: -26.5, y: -0.5}
+        - {x: -29.5, y: 0.5}
+        - {x: -31.5, y: -1.5}
+      - - {x: 18.5, y: -1.5}
+        - {x: 21.5, y: -0.5}
+        - {x: 21.5, y: 2.5}
+        - {x: 18.5, y: 3.5}
+        - {x: 16.5, y: 1.5}
+      - - {x: 23.5, y: 2.5}
+        - {x: 26.5, y: 3.5}
+        - {x: 26.5, y: 6.5}
+        - {x: 23.5, y: 7.5}
+        - {x: 21.5, y: 5.5}
+      - - {x: -21.5, y: 3.5}
+        - {x: -18.5, y: 4.5}
+        - {x: -18.5, y: 7.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -23.5, y: 6.5}
+      - - {x: 16.5, y: 9.5}
+        - {x: 12.5, y: 6.5}
+        - {x: 14.5, y: 3.5}
+        - {x: 17.5, y: 3.5}
+        - {x: 20.5, y: 4.5}
+        - {x: 20.5, y: 6.5}
+        - {x: 17.5, y: 9.5}
+      - - {x: 16.5, y: 11.5}
+        - {x: 19.5, y: 12.5}
+        - {x: 19.5, y: 15.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 14.5, y: 14.5}
+    - name: icyhotpot_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 69
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -3.5}
+        - {x: -19.5, y: -5.5}
+        - {x: -25.5, y: -12.5}
+        - {x: -25.5, y: -17.5}
+        - {x: 25.5, y: -17.5}
+        - {x: 25.5, y: -7.5}
+        - {x: 12.5, y: -3.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
