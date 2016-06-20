@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 767bdbf903e522c41b5b5bb83f885214
+timeCreated: 1461908478
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: callumsstupidfireplace_0
+    21300002: callumsstupidfireplace_1
+    21300004: callumsstupidfireplace_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: callumsstupidfireplace_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 474
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -17, y: 54}
+        - {x: -25, y: 4}
+        - {x: -25, y: -55}
+        - {x: 25, y: -55}
+        - {x: 25, y: 14}
+        - {x: 17, y: 55}
+    - name: callumsstupidfireplace_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 474
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -17, y: 54}
+        - {x: -25, y: 4}
+        - {x: -25, y: -55}
+        - {x: 25, y: -55}
+        - {x: 25, y: 14}
+        - {x: 17, y: 55}
+    - name: callumsstupidfireplace_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 474
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -17, y: 54}
+        - {x: -25, y: 4}
+        - {x: -25, y: -55}
+        - {x: 25, y: -55}
+        - {x: 25, y: 14}
+        - {x: 17, y: 55}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

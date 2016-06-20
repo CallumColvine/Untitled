@@ -1,4 +1,16 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/TerrainDemo.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/TestLevel1.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/AnimationsDemo.unity
+=======
+- path: Assets/Scenes/MovementTestScene.unity
+>>>>>>> e0d3ed662ece0ee61cf84e590f8558953ab49c5e
+>>>>>>> d6491a295500bb707106994e8c072419d1827a97
+>>>>>>> 4c2cf1d37369455774fc6a9fcb163c897c576af5
   isLoaded: 1
   isActive: 1
